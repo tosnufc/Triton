@@ -1,0 +1,13 @@
+# build artifacts (copied from trt-lab, rebuildable)
+*.plan
+*.onnx
+*.engine
+
+#data
+data/
+&.npy
+
+# python
+__pycache__/
+*.pyc
+
